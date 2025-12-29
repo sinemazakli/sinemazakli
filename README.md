@@ -4,7 +4,7 @@ Verileri anlamlı hikayelere dönüştürmeye tutkulu bir Veri Analisti adayıy�
 
 ### 🛠 Yetkinliklerim
 * **Programlama:** Python (Pandas, NumPy, Matplotlib)
-* **Veri Tabanı:** SQL (PostgreSQL, MySQL)
+* **Veri Tabanı:** SQL | PL/SQL
 * **Görselleştirme:** Power BI / Excel
 * **Analiz:** İstatistiksel Analiz, Veri Temizleme (Data Cleaning), EDA (Keşifçi Veri Analizi)
 
